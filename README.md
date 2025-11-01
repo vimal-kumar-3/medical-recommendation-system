@@ -45,7 +45,7 @@ Medical_Recommendation_System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/medical-recommendation-system.git
+   git clone https://github.com/vimal-kumar-3/medical-recommendation-system.git
    cd medical-recommendation-system
    
 2. Install all dependencies:
